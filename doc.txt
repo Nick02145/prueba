@@ -1,6 +1,6 @@
-nombre = input("dame tu nombre")
+nombre = input("dame tu nombre porfis")
 
 def saludo (nombre):
     print (nombre)
 
-saludo ("hola" + nombre)
+saludo ("hola persona del común" + nombre)
