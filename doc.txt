@@ -3,4 +3,4 @@ nombre = input("dame tu nombre")
 def saludo (nombre):
     print (nombre)
 
-saludo ("hola señor o señora " + nombre)
+saludo ("hola" + nombre)
